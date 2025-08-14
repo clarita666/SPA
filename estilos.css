@@ -1,0 +1,21 @@
+ body {
+     background-color: #FFF5BA;
+     color: #333333;
+     /* Texto oscuro */
+ }
+
+ .container-fluid {
+     background-color: #f4e58a;
+ }
+
+ header {
+     background-color: #FADADD;
+     /* Rosa pastel */
+ }
+ main {
+            flex: 1; 
+        }
+
+.footer {
+     background-color: #f4e58a;
+}
