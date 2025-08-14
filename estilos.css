@@ -12,10 +12,31 @@
      background-color: #FADADD;
      /* Rosa pastel */
  }
- main {
-            flex: 1; 
-        }
+
+/* texto de presentacion */
+.bienvenida {
+  background-color: #f8b0a6cb; /* tu color de fondo */
+  padding: 60px 20px;
+}
+
+.bienvenida h1 {
+  font-family: 'Playfair Display', serif; /* tipografía elegante */
+  font-size: 2.5rem;
+  color: #4e2b2a; /* marrón suave */
+  margin-bottom: 20px;
+}
+
+.bienvenida p {
+  font-family: 'Raleway', sans-serif; /* tipografía limpia para texto */
+  font-size: 1.2rem;
+  color: #fff; /* blanco para contraste */
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+
+
 
 .footer {
-     background-color: #f4e58a;
+    background-color:#f4e58a ;
 }
