@@ -26,15 +26,8 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="index.php?vista=nuestrospa">Nuestro Spa</a>
         </li>
-         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-           Productos
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="index.php?vista=productos&categoria=rostro">Rostro</a></li>
-            <li><a class="dropdown-item" href="index.php?vista=productos&categoria=cuerpo">Cuerpo</a></li>
-            <li><a class="dropdown-item" href="index.php?vista=productos&categoria=aceites">Aceites</a></li>
-          </ul>
+          <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.php?vista=productos">Productos</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?vista=servicios">Servicios</a>
